@@ -1,2 +1,2 @@
 dev:
-	go run .
+	go run httpd/main.go
